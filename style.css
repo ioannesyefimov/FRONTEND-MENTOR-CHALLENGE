@@ -346,7 +346,7 @@ order: -1;
   display: grid;
   }
   .section2-background{
-    background-image: url(images/bg-pattern-circles.svg), linear-gradient(to right, hsl(237, 17%, 21%), hsl(237, 23%, 32%));
+    background-image: url(bg-pattern-circles.svg), linear-gradient(to right, hsl(237, 17%, 21%), hsl(237, 23%, 32%));
     background-repeat: no-repeat;
     background-size: 190%, 100%;
     background-position: center;
@@ -869,7 +869,7 @@ top:-3rem;
   }
 }
 .ilustration-laptop img{
-  content: url('images/illustration-laptop-desktop.svg');
+  content: url('illustration-laptop-desktop.svg');
   margin-inline: none;
  width: 100%;
 
