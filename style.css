@@ -567,7 +567,7 @@ span:hover {
     text-decoration: underline;
 }
 .menu .nav-link:after{
-  content: url(images/icon-arrow-light.svg);
+  content: url(icon-arrow-light.svg);
  
 
 }
