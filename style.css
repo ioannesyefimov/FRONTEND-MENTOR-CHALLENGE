@@ -117,7 +117,7 @@ ul{
  .header-background{
 
   background-position: left;
-  background-image: url(images/bg-pattern-intro-mobile.svg) ,linear-gradient(to right , var(--clr-background-gradient-intro-vlred), var(--clr-background-gradient-intro-lred));
+  background-image: url(bg-pattern-intro-mobile.svg) ,linear-gradient(to right , var(--clr-background-gradient-intro-vlred), var(--clr-background-gradient-intro-lred));
   background-size:  245%, 100%;
  background-position: center;
 
@@ -317,7 +317,7 @@ order: -2
 }
 
 .ilustration-editor img {
-  content: url('images/illustration-editor-mobile.svg');
+  content: url('illustration-editor-mobile.svg');
 
 
 
@@ -446,7 +446,7 @@ footer {
   .header-background {
 
   background-position: left;
-  background-image: url(images/bg-pattern-intro-desktop.svg) ,linear-gradient(to right , var(--clr-background-gradient-intro-vlred), var(--clr-background-gradient-intro-lred));
+  background-image: url(bg-pattern-intro-desktop.svg) ,linear-gradient(to right , var(--clr-background-gradient-intro-vlred), var(--clr-background-gradient-intro-lred));
   /* background-position: ; */
   /* background-size:  225%, 100%; */
  background-position: center;
